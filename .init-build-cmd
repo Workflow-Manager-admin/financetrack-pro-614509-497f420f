@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/tmp/kavia/workspace/code-generation/financetrack-pro-614509-497f420f/financetrack_pro"
+}
